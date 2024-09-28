@@ -8,4 +8,4 @@ Enhanced Learning: Reading books provides a deeper understanding of concepts com
 
 Check out the website and explore the available books. Dive into the theory and practice coding to enhance your skills! https://vinayakpandeya.github.io/Book_Store/
 
-![image alt]  (https://github.com/vinayakpandeya/Book_Store/blob/15eafff64ed5e370696461c69920ace5b13dcc0c/Screenshot%202024-09-28%20180552.jpg)
+  ![image alt](https://github.com/vinayakpandeya/Book_Store/blob/15eafff64ed5e370696461c69920ace5b13dcc0c/Screenshot%202024-09-28%20180552.jpg)
